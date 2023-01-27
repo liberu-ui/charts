@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/charts",
+  "name": "@cgdsoftware/charts",
   "version": "4.0.0",
   "description": "Charts",
   "main": "index.js",
@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/enso-ui/charts#readme",
   "dependencies": {
-    "@enso-ui/card": "^3.0",
-    "@enso-ui/directives": "^2.0",
-    "@enso-ui/mixins": "^4.0",
-    "@enso-ui/progress-circle": "^2.0",
+    "@cgdsoftware/card": "^3.0",
+    "@cgdsoftware/directives": "^2.0",
+    "@cgdsoftware/mixins": "^4.0",
+    "@cgdsoftware/progress-circle": "^2.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/vue-fontawesome": "3.0.0-5",
