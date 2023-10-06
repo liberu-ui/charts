@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/charts.git"
+    "url": "git+https://github.com/liberu-ui/charts.git"
   },
   "keywords": [
     "charts",
@@ -18,9 +18,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/charts/issues"
+    "url": "https://github.com/liberu-ui/charts/issues"
   },
-  "homepage": "https://github.com/enso-ui/charts#readme",
+  "homepage": "https://github.com/liberu-ui/charts#readme",
   "dependencies": {
     "@liberu-ui/card": "^3.0",
     "@liberu-ui/directives": "^2.0",

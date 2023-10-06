@@ -1,10 +1,10 @@
 # Charts
 
-![NPM License](https://img.shields.io/npm/l/@enso-ui/charts.svg)
-![npm download](https://img.shields.io/npm/dm/@enso-ui/charts.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/charts.svg)
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/charts.svg)
-![npm version](https://img.shields.io/npm/v/@enso-ui/charts.svg)
+![NPM License](https://img.shields.io/npm/l/@liberu-ui/charts.svg)
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/charts.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/charts.svg)
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/charts.svg)
+![npm version](https://img.shields.io/npm/v/@liberu-ui/charts.svg)
 
 Vue Charts Package
 
