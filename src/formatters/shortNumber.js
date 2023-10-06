@@ -1,4 +1,4 @@
-import { shortNumber } from '@enso-ui/mixins';
+import { shortNumber } from '@liberu-ui/mixins';
 
 export default (number, { chart: { options: { precision = 2 } } }) => {
     return shortNumber(number, precision)

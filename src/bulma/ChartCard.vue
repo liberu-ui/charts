@@ -43,7 +43,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import {
     Card, CardHeader, CardContent, CardControl, CardRefresh, CardCollapse,
-} from '@enso-ui/card/bulma';
+} from '@liberu-ui/card/bulma';
 
 import Chart from '../components/Chart.vue';
 

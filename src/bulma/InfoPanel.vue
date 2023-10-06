@@ -49,9 +49,9 @@
 </template>
 
 <script>
-import ProgressCircle from '@enso-ui/progress-circle';
-import { clickOutside } from '@enso-ui/directives';
-import { shortNumber } from '@enso-ui/mixins';
+import ProgressCircle from '@liberu-ui/progress-circle';
+import { clickOutside } from '@liberu-ui/directives';
+import { shortNumber } from '@liberu-ui/mixins';
 
 export default {
     name: 'InfoPanel',
