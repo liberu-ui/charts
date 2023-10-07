@@ -2,7 +2,7 @@
   "name": "@liberu-ui/charts",
   "version": "4.0.5",
   "description": "Charts",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,7 +30,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/vue-fontawesome": "3.0.0-5",
     "bulma": "^0.9.0",
-    "chart.js": "^3.0.0",
+    "chart.ts": "^3.0.0",
     "chartjs-plugin-annotation": "^1.0.2",
     "chartjs-plugin-datalabels": "^2.0.0",
     "file-saver": "^2.0",
