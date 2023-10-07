@@ -1,6 +1,6 @@
 <script>
 import { h } from 'vue';
-import { Chart, registerables } from 'chart.ts';
+import { Chart, registerables } from 'chart.js';
 import ChartDataLabels from 'chartjs-plugin-datalabels';
 import annotationPlugin from 'chartjs-plugin-annotation';
 import shortNumber from '../formatters/shortNumber';
